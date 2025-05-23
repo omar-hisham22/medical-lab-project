@@ -39,3 +39,8 @@ This project implements a database system for a medical laboratory using MySQL. 
 - Omar Hisham  
 - Nour Said  
 - Haneen Mohamed
+- ## 📹 Project Presentation Video
+
+Watch our full project explanation and demo on Google Drive:  
+👉 [Click here to watch the video]((https://drive.google.com/file/d/124fM58BaWwtVxYB4-5LGHkY80a4ShEbN/view?usp=sharing))
+
